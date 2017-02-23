@@ -1,0 +1,3 @@
+This project is about using A-Star algorithm to find the minimal cost paths between start state and goal state.
+In this particular project, we create a map representation which contains areas such as rivers, hard to travel, blocked and unblocked, all of which have different cost of traversal depending on difficulty.
+The project has been created in Java with use of Swing for map/grid creation.
